@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Artem
+### Hi there 👋, my name is Vladislav
 #### I am JavaScript middle full stack developer
 
 Skills:  REACT / JS / HTML / CSS / ANT DESING / NODE JS / EXPRESS / POSTGRESQL
